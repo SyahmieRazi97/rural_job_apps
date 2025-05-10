@@ -1,0 +1,2 @@
+C:/rural_jobs_app/android/app/.cxx/Debug/274s3p4n/x86/CMakeFiles/edit_cache.dir
+C:/rural_jobs_app/android/app/.cxx/Debug/274s3p4n/x86/CMakeFiles/rebuild_cache.dir

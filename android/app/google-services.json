@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497978808492",
+    "project_id": "rural-jobs-app-81fa0",
+    "storage_bucket": "rural-jobs-app-81fa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497978808492:android:97e95ccf91e5079a7ea709",
+        "android_client_info": {
+          "package_name": "mie.rural_jobs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTwxw7bchKHAPG4nKoS_O3wdJK8w3bVi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

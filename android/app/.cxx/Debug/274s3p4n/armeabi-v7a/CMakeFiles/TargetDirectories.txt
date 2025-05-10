@@ -1,0 +1,2 @@
+C:/rural_jobs_app/android/app/.cxx/Debug/274s3p4n/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/rural_jobs_app/android/app/.cxx/Debug/274s3p4n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
