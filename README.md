@@ -1,16 +1,4 @@
-# rural_jobs_app
+# Rural_Jobs_Mobile_App_with_Automated_Job_Matching
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project will be of service to those people who are actively seeking jobs, especially from rural areas where finding work may not be readily available. it also suggests that the project is using GloVe (Global
+Vectors for Word Representation). It is an unsupervised learning algorithm for obtaining vector representations for words
